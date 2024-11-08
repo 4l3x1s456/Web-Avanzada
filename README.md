@@ -5,4 +5,3 @@ Integrantes:
 Angelo Sánchez.
 Alexis Chimba.
 Carlos Rivera.
-Javier Ramos.
