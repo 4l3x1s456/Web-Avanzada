@@ -1,0 +1,1 @@
+Reescribir las credenciales acorde a las credenciales de su base de datos sql dentro de la carpeta sistema-reservas en el archivo (.env) y reescribir el puerto tanto en el .env, como de la proxy dentro de la carpeta mi-app en el archivo package.json (lo del puerto únicamente en el caso de que usted tenga el puerto 3000 ocupado)
